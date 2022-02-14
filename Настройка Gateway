@@ -1,0 +1,8 @@
+НАСТРОЙКА СВЯЗАННОСТИ
+-----------------------------------------
+НАСТРОЙКА GATEWAY
+
+добавление в nano /etc/network/interfaces
+после address - gateway (смотря по топологии)
+
+[![](https://sun9-41.userapi.com/impg/Kb0DTVQoSrf0LyC72Le7w5toLWlLX6867vcj7Q/Y_w_cSSB0kk.jpg?size=270x80&quality=96&sign=7d4e89bbd701c6c1b7acb2a202c1f12d&type=album)](https://sun9-41.userapi.com/impg/Kb0DTVQoSrf0LyC72Le7w5toLWlLX6867vcj7Q/Y_w_cSSB0kk.jpg?size=270x80&quality=96&sign=7d4e89bbd701c6c1b7acb2a202c1f12d&type=album)
