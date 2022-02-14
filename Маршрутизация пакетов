@@ -1,0 +1,14 @@
+##  ВКЛЮЧЕНИЕ МАРШРУТИЗАЦИИ ПАКЕТОВ:
+
+```bash
+nano /etc/sysctl.conf
+```
+проверка через ```bash
+sysctl -p 
+```
+
+```bash
+apt-cdrom add
+apt-get update
+apt-get install ... 
+```
