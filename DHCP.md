@@ -33,9 +33,11 @@ service isc-dhcp-server restart
 journalctl -xe
 ``` 
 посмотреть есть ли ошибки 
-проверка:```
+проверка:
+```
  tcpdump -i ens33 port 67 and port 68 
-```- прослушка всего трафика ens33 (dhcp работает на 67 - принимает, 68 - отправляет)
+```
+- прослушка всего трафика ens33 (dhcp работает на 67 - принимает, 68 - отправляет)
 
 # DHCP Relay
 на CLI установить apt-get install isc-dhcp-relay
